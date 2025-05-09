@@ -1,0 +1,13 @@
+*.lock
+*.pt
+*.npy
+*.tar
+*.tar.gz
+*.pkl
+*.npz
+
+__pycache__/
+_DATA/
+models/
+output/
+third-party/ViTPose/*
